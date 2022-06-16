@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides reading assignments and handouts for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -56,7 +57,7 @@ Parsons, T. "Thematic Roles" (Chap. 5, pp. 68-104), and "Causatives and Inchoati
 
 {{< tdclose >}}
 {{< tdopen >}}
-Notes ([PDF]({{< baseurl >}}/resources/lexsemtwo))
+Notes ({{% resource_link 386ba1a8-bd9e-72c8-869d-b027010feccc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ Marantz, A. "Implications of Asymmetries in Double Object Constructions." Chap. 
 Pesetsky, David. "Double Object Constructions and the Zero Morpheme G." Chap. 5 in _Zero Syntax_. U.S.A.: Library of Congress Cataloging-in-Publication Data, 1995, pp. 123-317.
 {{< tdclose >}}
 {{< tdopen >}}
-Ruixi Ai Handout ([PDF]({{< baseurl >}}/resources/kubo1992presentationrevi))
+Ruixi Ai Handout ({{% resource_link 9cb05c43-a4d3-e742-92e6-a5082e58e890 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +133,7 @@ Huang, C.-T. James. "Chinese Passives in Comparative Perspective." (National Tsi
 Huang, C.-T. James. "Passives East and West." 1999. (Paper presented at The 2nd GLOW of Asia Conference, Nanzan University. Nagoya, Japan)
 {{< tdclose >}}
 {{< tdopen >}}
-Applicative Lecture ([PDF]({{< baseurl >}}/resources/applpylkkanenspring03))
+Applicative Lecture ({{% resource_link 78db42ba-0cc4-f2e1-cec7-49dd9b2f933b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,9 +237,9 @@ Miyagawa, Shigeru, and Takae Tsujioka. "Argument Structure and Ditransitive Ver
 {{< tdopen >}}
 
 
-Argument Structure and Ditransitive Verbs in Japanese -- Miyagawa ([PDF]({{< baseurl >}}/resources/ditransitivemiyagawa))
+Argument Structure and Ditransitive Verbs in Japanese -- Miyagawa ({{% resource_link 6801d682-f0d3-5076-b5fe-3e52b0f502be "PDF" %}})
 
-Double Object -- Miyagawa ([PDF]({{< baseurl >}}/resources/doubleobjectmiyagawa))
+Double Object -- Miyagawa ({{% resource_link b25e5e7a-2782-054c-dc74-74a4815891eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on course meeting times, assignments,
+  lecture topics, and readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

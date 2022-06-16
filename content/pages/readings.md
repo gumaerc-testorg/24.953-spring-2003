@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the reading assignments for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Readings
 uid: 203abb09-7a69-1601-b84f-96bee8796946
 ---
 
-Miyagawa, Shigeru, and Takae Tsujioka. "Argument Structure and Ditransitive Verbs in Japanese." (May 2003). ([PDF]({{< baseurl >}}/resources/miyagawatsujioka_jeal_fin))
+Miyagawa, Shigeru, and Takae Tsujioka. "Argument Structure and Ditransitive Verbs in Japanese." (May 2003). ({{% resource_link 2f0d14ff-0949-87bb-a55c-5e597b61e164 "PDF" %}})
 
 Levin, B. "Objecthood: An Event Structure Perspective." CLS 35, _The Main Session_ 1 (1999).
 
