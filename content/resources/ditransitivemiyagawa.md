@@ -5,6 +5,7 @@ file: /courses/24-953-argument-structure-and-syntax-spring-2003/6801d682f0d35076
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ditransitivemiyagawa.pdf
 uid: 6801d682-f0d3-5076-b5fe-3e52b0f502be
 ---
 Argument Struture and Ditransitive Verbs in Japanese
-
